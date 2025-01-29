@@ -1,0 +1,6 @@
+Business Insights:
+1. Top 10 products contribute to 65% of total sales.
+2. Most sales come from the Electronics category.
+3. Sales peak during November and December.
+4. Region 'North America' has the highest spending customers.
+5. 80% of customers purchase less than 3 times.
